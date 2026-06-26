@@ -146,7 +146,7 @@ text
 
 ## 🛠️ Build from Source / Build Từ Mã Nguồn
 ```bash
-git clone https://github.com/tnrvwindowsadmin-lgtm/RVMWindows.git
+git clone https://github.com/tnrvwindowsadmin-lgtm/RVWindows
 pip install pyinstaller
 pyinstaller --onefile --windowed --name RVWindows app.py
 📝 Changelog / Lịch Sử
